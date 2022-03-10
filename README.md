@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 -     Projects that you are willing to teach me along the way.
 - 📫 How to reach me ...
--   Twitter: <a href="twitter.com/84isenough">twitter.com/84isenough</a>
+-   Twitter: <a href="https://twitter.com/84isenough" target="_blank">twitter.com/84isenough</a>
 
 <!---
 LitecoinRahb/LitecoinRahb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
